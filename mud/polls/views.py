@@ -4,9 +4,6 @@ from django.core.urlresolvers import reverse
 from django.views import generic
 from django.utils import timezone
 
-from django.db.models import F
-
-
 from .models import Choice, Question
 
 
