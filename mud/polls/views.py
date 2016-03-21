@@ -3,6 +3,9 @@ from django.http import HttpResponseRedirect
 from django.core.urlresolvers import reverse
 from django.views import generic
 
+from django.db.models import F
+
+
 from .models import Choice, Question
 
 
