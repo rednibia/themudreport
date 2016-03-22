@@ -590,7 +590,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458658764384</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="trying to add base page">
+      <created>1458658848631</created>
+      <option name="number" value="00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1458658848631</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
