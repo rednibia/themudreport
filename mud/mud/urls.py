@@ -7,6 +7,6 @@ urlpatterns = [
     url(r'^polls/', include('polls.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.indx, name='indx'),
-    url(r'^$about.html/', views.index, name='about'),
+    url(r'^$about.html/', views.about, name='about'),
 
 ]
