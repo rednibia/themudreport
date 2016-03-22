@@ -6,7 +6,7 @@ from . import views
 urlpatterns = [
     url(r'^polls/', include('polls.urls')),
     url(r'^admin/', admin.site.urls),
-    url(r'^$', views.index, name='index'),
-    url(r'^$', views.index, name='about.html'),
+    url(r'^$', views.indx, name='indx'),
+    url(r'^$about.html/', views.index, name='about'),
 
 ]

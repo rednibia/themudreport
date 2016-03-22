@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 
 
-def index(request):
+def indx(request):
     return HttpResponse("Hello, world. You're at the main index.")
 
 def about(request):
