@@ -6,3 +6,7 @@ def index(request):
 
 def about(request):
     return HttpResponse("This was created using Django.")
+
+def math(request):
+    answer = 5
+    return HttpResponse(str(answer))
