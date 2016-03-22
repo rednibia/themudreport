@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f40d944-1246-403c-8704-e2cf77f9f60e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mud/polls/models.py" afterPath="$PROJECT_DIR$/mud/polls/models.py" />
     </list>
     <ignored path="themudreport.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mud/polls/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5655577">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -47,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mud/polls/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.39921722">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -88,12 +89,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mud/polls/static/polls/style.css" />
-        <option value="$PROJECT_DIR$/mud/polls/models.py" />
         <option value="$PROJECT_DIR$/mud/polls/templates/polls/index.html" />
         <option value="$PROJECT_DIR$/mud/polls/templates/polls/results.html" />
         <option value="$PROJECT_DIR$/mud/polls/views.py" />
         <option value="$PROJECT_DIR$/mud/polls/urls.py" />
         <option value="$PROJECT_DIR$/mud/polls/tests.py" />
+        <option value="$PROJECT_DIR$/mud/polls/models.py" />
       </list>
     </option>
   </component>
@@ -450,7 +451,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458649349341</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add first test">
+      <created>1458649498750</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1458649498750</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -499,7 +506,8 @@
     <MESSAGE value="reverting to old" />
     <MESSAGE value="Merge branch 'master' of https://github.com/rednibia/themudreport&#10;&#10;# Conflicts:&#10;#&#9;mud/polls/views.py&#10;" />
     <MESSAGE value="add first test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add first test" />
+    <MESSAGE value="fix time bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix time bug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -527,16 +535,6 @@
         <state vertical-scroll-proportion="-5.230769">
           <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mud/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,10 +568,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mud/polls/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5655577">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mud/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39921722">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
