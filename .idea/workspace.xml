@@ -4,6 +4,7 @@
     <list default="true" id="9f40d944-1246-403c-8704-e2cf77f9f60e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mud/mud/urls.py" afterPath="$PROJECT_DIR$/mud/mud/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mud/mud/views.py" afterPath="$PROJECT_DIR$/mud/mud/views.py" />
     </list>
     <ignored path="themudreport.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,20 +29,10 @@
         <entry file="file://$PROJECT_DIR$/mud/mud/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2661448">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mud/polls/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -50,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/mud/mud/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -84,8 +75,8 @@
         <option value="$PROJECT_DIR$/mud/polls/static/polls/index.html" />
         <option value="$PROJECT_DIR$/mud/polls/static/polls/style.css" />
         <option value="$PROJECT_DIR$/mud/mud/settings.py" />
-        <option value="$PROJECT_DIR$/mud/mud/views.py" />
         <option value="$PROJECT_DIR$/mud/mud/urls.py" />
+        <option value="$PROJECT_DIR$/mud/mud/views.py" />
       </list>
     </option>
   </component>
@@ -576,7 +567,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458658197491</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="trying to add base page">
+      <created>1458658258074</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1458658258074</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -763,18 +760,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mud/mud/views.py">
+    <entry file="file://$PROJECT_DIR$/mud/polls/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0665362">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mud/polls/urls.py">
+    <entry file="file://$PROJECT_DIR$/mud/mud/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -782,7 +779,7 @@
     <entry file="file://$PROJECT_DIR$/mud/mud/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2661448">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
