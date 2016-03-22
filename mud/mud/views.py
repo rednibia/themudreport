@@ -8,5 +8,8 @@ def about(request):
     return HttpResponse("This was created using Django.")
 
 def math(request):
-    answer = 5
+    sum = 0
+    for i in range(0, 1000):
+        sum+=i
+    answer = sum
     return HttpResponse(str(answer))
