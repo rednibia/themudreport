@@ -1,11 +1,9 @@
 from django.http import HttpResponse
-from django.views import generic
-
+from django.shortcuts import render
 
 
 def index(request):
-    template_name = 'polls/index.html'
-    return HttpResponse("Hello, world. You're at the main index.")
+    return render('mud/index.html')
 
 def about(request):
     return HttpResponse("This was created using Django.")
