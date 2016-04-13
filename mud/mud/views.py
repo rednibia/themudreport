@@ -3,7 +3,7 @@ from django.shortcuts import render
 
 
 def index(request):
-    return render('mud/index.html')
+    return render(request, 'mud/index.html')
 
 def about(request):
     return HttpResponse("This was created using Django.")
