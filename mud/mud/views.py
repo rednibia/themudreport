@@ -7,7 +7,7 @@ def index(request):
     t = get_template('index.html')
     html = t.render(Context({}))
     return HttpResponse(html)
-I
+
 def about(request):
     return HttpResponse("This was created using Django.")
 
