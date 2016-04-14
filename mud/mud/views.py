@@ -4,7 +4,7 @@ from django.template.loader import get_template
 from django.template import Context
 
 def index(request):
-    t = get_template('index.html')
+    t = get_template('mud/index.html')
     html = t.render(Context({}))
     return HttpResponse(html)
 
