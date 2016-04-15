@@ -2,10 +2,11 @@ from django.http import HttpResponse
 from django.shortcuts import render
 from django.template.loader import get_template
 from django.template import Context
+import datetime
 
 def index(request):
     t = get_template('mud/index.html')
-    html = t.render(Context({'test':'thetest'}))
+    html = t.render(Context({'test':datetime.datetime()}))
     return HttpResponse(html)
 
 def about(request):
