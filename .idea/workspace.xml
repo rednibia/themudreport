@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/mud/mud/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2661448">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -481,12 +481,6 @@
       <option name="number" value="Default" />
       <updated>1458562150772</updated>
     </task>
-    <task id="LOCAL-00014" summary="reverting to old">
-      <created>1458576215969</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1458576215969</updated>
-    </task>
     <task id="LOCAL-00015" summary="reverting to old">
       <created>1458577202327</created>
       <option name="number" value="00015" />
@@ -775,7 +769,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460723843275</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="trying to use template as base page">
+      <created>1460723996707</created>
+      <option name="number" value="00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1460723996707</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1010,7 +1010,7 @@
     <entry file="file://$PROJECT_DIR$/mud/mud/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2661448">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
