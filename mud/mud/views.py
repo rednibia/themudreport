@@ -6,7 +6,7 @@ import datetime
 
 def index(request):
     t = get_template('mud/index.html')
-    html = t.render(Context({'test':str(datetime.datetime)()}))
+    html = t.render(Context({'test':str(datetime.datetime())}))
     return HttpResponse(html)
 
 def about(request):
