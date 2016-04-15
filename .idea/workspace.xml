@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/mud/mud/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2661448">
-              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -481,12 +481,6 @@
       <option name="number" value="Default" />
       <updated>1458562150772</updated>
     </task>
-    <task id="LOCAL-00016" summary="reverting to old">
-      <created>1458577486460</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1458577486460</updated>
-    </task>
     <task id="LOCAL-00017" summary="Merge branch 'master' of https://github.com/rednibia/themudreport&#10;&#10;# Conflicts:&#10;#&#9;mud/polls/views.py&#10;">
       <created>1458584514930</created>
       <option name="number" value="00017" />
@@ -775,7 +769,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460724109025</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="trying to use template as base page">
+      <created>1460724144748</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1460724144748</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1010,7 +1010,7 @@
     <entry file="file://$PROJECT_DIR$/mud/mud/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2661448">
-          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
