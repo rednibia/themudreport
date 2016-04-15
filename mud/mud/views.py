@@ -5,7 +5,7 @@ from django.template import Context
 
 def index(request):
     t = get_template('mud/index.html')
-    html = t.render(Context({}))
+    html = t.render(Context({'test':'thetest'}))
     return HttpResponse(html)
 
 def about(request):
